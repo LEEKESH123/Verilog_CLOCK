@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Gvim/Sequentional/duty cycles
+vtb
+!s110 1756394995
+!i10b 1
+!s100 haT?<<[EzAV676W?WYPWG0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Ig8O0=Di=G`9cz@7Q<SHn33
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Gvim/Sequential/Frequency and Time period
+w1756394729
+8duty3.v
+Fduty3.v
+!i122 37
+L0 2 25
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1756394995.000000
+!s107 duty3.v|
+!s90 -reportprogress|300|duty3.v|
+!i113 1
+tCvgOpt 0
