@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Gvim/Sequentional
+vtb
+!s110 1756218943
+!i10b 1
+!s100 >9>gjHRK<daYVC1kJoJHT3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IV0eBDjgblLGcL^gWG7TZQ2
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Gvim/Sequentional/clock genration
+w1756218832
+8clk2.v
+Fclk2.v
+!i122 5
+L0 2 15
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1756218943.000000
+!s107 clk2.v|
+!s90 -reportprogress|300|clk2.v|
+!i113 1
+tCvgOpt 0
